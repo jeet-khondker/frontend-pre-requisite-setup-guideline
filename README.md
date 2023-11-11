@@ -12,14 +12,14 @@ Please make sure you have all the following installed on your own machine.
 
 1. Visit the [NodeJS Website](https://nodejs.org/en)
 2. Download the `LTS (Long Term Support) Version which is Recommended For Most Users` as it is more stable.
-![NodeJS Website](/scripts/images/NodeJS.png)
+![NodeJS Website](/images/NodeJS.png)
 3. Run the Windows OS Installer (`.msi`) file and follow the On-Screen Instructions.
 
 ### 👉🏻 For MacOS Users
 
 1. Visit the [NodeJS Website](https://nodejs.org/en)
 2. Download the `LTS (Long Term Support) Version which is Recommended For Most Users` as it is more stable.
-![NodeJS Website](/scripts/images/NodeJS.png)
+![NodeJS Website](/images/NodeJS.png)
 3. Run the MacOS Installer (`.pkg`) file and follow the On-Screen Instructions.
 
 ### 👉🏻 For Linux OS Users
@@ -69,9 +69,9 @@ Yarn is a popular alternative package manager to NPM for managing JavaScript pac
 
 1. Visit the [Yarn Website](https://classic.yarnpkg.com/en/docs/install#windows-stable)
 2. Do the following as follows:
-![Yarn Website](/scripts/images/Yarn-Website.png)
+![Yarn Website](/images/Yarn-Website.png)
 3. Download the Yarn Installer for Windows OS.
-![Yarn Windows Installer](/scripts/images/Yarn-Windows-Installer.png)
+![Yarn Windows Installer](/images/Yarn-Windows-Installer.png)
 4. Run the Installer and follow the on-screen instructions.
 
 ### 👉🏻 For MacOS Users
